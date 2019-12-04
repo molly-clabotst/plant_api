@@ -10,7 +10,7 @@ router.get('/plants/:name', function(req, res, next) {
         return res.json(plant)
     }
     else {
-        return res.status(404)
+        return res.status(404).send('Not Found')
     }
 })
 

@@ -1,11 +1,25 @@
 module.exports = [
     { 
         "name": "spider plant",
-        "care": "Don't let your cat eat it"
+        "maxSoilMoisture": 4,
+        "humidityTolerance": "high",
+        "rotationSchedule": 60,
+        "fertilizationSchedule": 60
     },
 
-    { 
-        "name": "cactus",
-        "care": "Don't let your cat sit on it"
+    {
+        "name": "christmas cactus",
+        "maxSoilMoisture": 4,
+        "humidityTolerance": "high",
+        "rotationSchedule": 60,
+        "fertilizationSchedule": 60
+    },
+
+    {
+        "name": "strawberry begonia",
+        "maxSoilMoisture": 3,
+        "humidityTolerance": "no misting",
+        "rotationSchedule": 60,
+        "fertilizationSchedule": 60
     },
 ]

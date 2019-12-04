@@ -5,15 +5,25 @@
   </component>
   <component name="ProjectId" id="1UWngTo459ZrG9gFokAsTP5xwex" />
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_package_manager_path" value="npm" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="0" y="0" key="CommitChangelistDialog2" timestamp="1575481535936">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="0" y="0" key="CommitChangelistDialog2/0.0.1280.680@0.0.1280.680" timestamp="1575481535936" />
     <state x="108" y="81" key="FileChooserDialogImpl" timestamp="1575481496454">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="108" y="81" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1575481496454" />
+    <state x="0" y="73" key="Vcs.Push.Dialog.v2" timestamp="1575481539792">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="0" y="73" key="Vcs.Push.Dialog.v2/0.0.1280.680@0.0.1280.680" timestamp="1575481539792" />
   </component>
 </project>
